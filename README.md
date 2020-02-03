@@ -9,6 +9,8 @@ This is an example version of a simple app for the MSI internal JS/Angular train
 4. Create a responsive image grid
 5. Create a directive for lazy loading images asynchronously 
 6. Plug the directive into the image grid
+7. (Optional) Write unit tests
+7.1. Just kidding, it's not optional. Test your code, people. Especially JavaScript. 
 
 # Notes: 
 
