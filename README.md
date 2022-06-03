@@ -2,7 +2,7 @@
 
 This is an example version of a simple app for the MSI internal JS/Angular training, Angular part.
 
-#Steps: 
+# Steps: 
 1. Set up a project using Angular CLI
 2. Fill the main component with dummy data
 3. Fetch images using this endpoint: https://jsonplaceholder.typicode.com/albums/1/photos?_limit=10 
@@ -14,10 +14,10 @@ This is an example version of a simple app for the MSI internal JS/Angular train
 
 # Notes: 
 
-Use TypeScript typings (TSLint not mandatory here)
-Use services for component-nonspecific behaviours
-Use [Observables](https://angular.io/guide/rx-library)
-Make the directive as universal as possible
+Use TypeScript typings (TSLint not mandatory here)  
+Use services for component-nonspecific behaviours  
+Use [Observables](https://angular.io/guide/rx-library)  
+Make the directive as universal as possible  
 
 
 # ORIGINAL INFORMATION
