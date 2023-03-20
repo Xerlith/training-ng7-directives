@@ -1,6 +1,6 @@
 # EXERCISE CONTENT
 
-This is an example version of a simple app for the MSI internal JS/Angular training, Angular part.
+This is an example version of a simple app for JS/Angular training, Angular part.
 
 # Steps: 
 1. Set up a project using Angular CLI
